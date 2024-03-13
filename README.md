@@ -9,7 +9,7 @@ To start using the tool you need to learn how to use it :
 
 ## The Errors:
 there is three types of errors in the tool: 
-- The First Type `Error in The Third-Part Libraries`: 
+- The First Type `Error in The Third-Party Libraries`: 
     - The Tool will take care of that.
 - The Second Type `Error in The Tool Files`:
     - To fix the error you need to delete and install the tool from the beginning.
