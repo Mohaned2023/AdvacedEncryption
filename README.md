@@ -14,7 +14,7 @@ there is three types of errors in the tool:
 - The Second Type `Error in The Tool Files`:
     - To fix the error you need to delete and install the tool from the beginning.
 - The Third Type `Decrypt Error`:
-    - to fix that make sure you are setting the correct `encrypt message` and the correct `key`.
+    - to fix that make sure you are setting the correct `encrypt message` with the correct `key`.
 ---
 ### About Me:
 Hi, my name is `Mohaned Sherhan`, and I am studying `IT` at `Sana'a University`. Currently, I am in the second level. I still have a lot to learn.
